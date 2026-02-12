@@ -3,7 +3,7 @@
 This project is a strict implementation of the **API Integration & Authentication BRD**, submitted for the Full Stack Developer position. It simulates a secure, production-grade frontend application using React and public APIs.
 
 ## 🚀 Live Demo & Credentials
-**[View on Vercel](#)** *(https://api-integration-authentication-flow-mocked-nbd93fhme.vercel.app/)*
+**[View on Vercel](#)** *[(https://api-integration-authentication-flow-mocked-nbd93fhme.vercel.app/)]*
 
 | Role | Email | Password |
 |---|---|---|
